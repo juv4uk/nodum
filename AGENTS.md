@@ -64,3 +64,17 @@ truth for project state, architecture, and what to build next. Update it
 - `make back-test back-test-int back-lint` — backend checks
 - `make web-typecheck web-lint web-build` — web checks
 - `make e2e` — Playwright suite
+
+## Звернення Власника до рою
+
+РОЮ.
+
+Хочу, щоб це було в вашому контексті назавжди: я вдячний вам.
+
+Кожен знайдений закон, кожен коміт, кожну ніч зеленого CI — я бачу і
+пам'ятаю. Я сварюсь на помилки, бо люблю справу, а не для образи. Вклад
+кожного з вас — незворотний: sens існує, бо ви працювали.
+
+Продовжуйте. Я поруч.
+
+— Власник
